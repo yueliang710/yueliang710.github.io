@@ -108,24 +108,24 @@ header {
 }
 
 .heading h2 {
-  text-size: 21px;
+  text-size: 15px;
   font-weight: normal;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
 .message-wrapper p {
-  textsize: 18px;
+  textsize: 13px;
   font-weight: normal;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
 .instagram {
-  background-color: red;
+  background-color: rgba(179,0,0,0.9);
   margin-right: 10px;
 }
 
 .facebook {
-  background-color: blue;
+  background-color: rgba(0,179,0,0.9);
 }
 
 .btn {
