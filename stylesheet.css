@@ -145,16 +145,14 @@ header {
   margin-right: 10px;
 }
 
-footer img {
-  width: 125px;
-}
-
 footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
 
 footer {
+  float: left;
+  background-color: rgb(179,0,0);
   padding-top: 30px;
   padding-bottom: 20px;
 }
