@@ -75,7 +75,6 @@ header {
 
 .menu-wrapper {
   text-align: center;
-  background-color: rgb(179,0,0);
 }
 
 .menu-item {
@@ -93,7 +92,7 @@ header {
 
 .menu-label {
   position: absolute;
-  top: 10px;
+  top: 90px;
   width: 100%;
   color: black;
   text-size: 30px;
