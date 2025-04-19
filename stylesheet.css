@@ -131,7 +131,7 @@ header {
 }
 
 .btn {
-  float: right;
+  float: center;
   color: white;
   opacity: 0.8;
   display: inline-block;
