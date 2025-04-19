@@ -76,6 +76,7 @@ header {
 .menu-wrapper {
   display: flex;
   padding: 20px:
+  align-item: center;
 }
 
 .item {
