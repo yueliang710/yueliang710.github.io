@@ -76,7 +76,6 @@ header {
 .menu-item {
   float: left;
   width: 33%;
-  display: inline-block;
 }
 
 .menu-icon img {
