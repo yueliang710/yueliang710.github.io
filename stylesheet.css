@@ -107,11 +107,12 @@ header {
 }
 
 .heading h2 {
-  text-size: 28px;
+  text-size: 21px;
   font-weight: normal;
 }
 
 .message-wrapper p {
+  textsize: 21px;
   font-weight: normal;
 }
 
