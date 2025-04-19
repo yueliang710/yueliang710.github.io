@@ -82,6 +82,7 @@ header {
   width: 150px;
   height: 100px;
   object-fit: cover;
+  border-radius: 8px;
   position: relative;
 }
 
