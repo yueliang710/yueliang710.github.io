@@ -117,6 +117,7 @@ header {
 
 .instagram {
   background-color: red;
+  margin-right: 10px;
 }
 
 .facebook {
@@ -124,10 +125,10 @@ header {
 }
 
 .btn {
-  flont: left;
   color: white;
   opacity: 0.8;
   display: inline-block;
+  border-radius: 4px;
 }
 
 .btn:hover {
