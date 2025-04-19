@@ -85,6 +85,10 @@ header {
   position: relative;
 }
 
+.menu-icon a {
+  display: block;
+}
+
 .menu-icon p {
   position: absolute;
   top: 10px;
