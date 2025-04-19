@@ -121,12 +121,12 @@ header {
 }
 
 .instagram {
-  background-color: rgba(179,0,0,0.5);
+  background-color: rgba(179,0,0,0.8);
   margin-right: 10px;
 }
 
 .facebook {
-  background-color: rgba(0,0,179,0.5);
+  background-color: rgba(0,0,179,0.8);
 }
 
 .btn {
