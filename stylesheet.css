@@ -82,8 +82,6 @@ header {
 .item {
   position: relative;
   display: block;
-  width: 200px;
-  height: 150px;
   text-decoration: none;
 }
   
