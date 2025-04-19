@@ -141,6 +141,10 @@ header {
   opacity: 1;
 }
 
+.fa {
+  margin-right: 10px;
+}
+
 footer img {
   width: 125px;
 }
