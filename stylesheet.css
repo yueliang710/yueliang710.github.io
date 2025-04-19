@@ -78,14 +78,14 @@ header {
   width: 33%;
 }
 
-.menu-icon img {
+.menu-item img {
   width: 150px;
   height: 100px;
   object-fit: cover;
   position: relative;
 }
 
-.menu-icon a {
+.menu-item a {
   position: absolute;
   top: 10px;
   width: 100%;
