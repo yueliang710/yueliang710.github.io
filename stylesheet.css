@@ -80,6 +80,7 @@ header {
 
 .menu-item {
   float: left;
+  width: 33%;
   padding: 30px;
   position: relative;
 }
@@ -93,12 +94,12 @@ header {
 
 .menu-label {
   position: absolute;
-  top: 50px;
+  top: 80px;
   width: 100%;
   color: black;
   text-size: 30px;
-  background-color: white;
-  padding: 20px 60px;
+  background-color: rgba(255,255,255,0.7);
+  padding: 20px 40px;
   display: block;
 }
 
