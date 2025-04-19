@@ -113,8 +113,27 @@ header {
 }
 
 .message-wrapper p {
-  textsize: 21px;
+  textsize: 18px;
   font-weight: normal;
+}
+
+.instagram {
+  background-color: red;
+}
+
+.facebook {
+  background-color: blue;
+}
+
+.btn {
+  flont: left;
+  color: white;
+  opacity: 0.8;
+  display: inline-block;
+}
+
+.btn:hover {
+  opacity: 1;
 }
 
 footer img {
