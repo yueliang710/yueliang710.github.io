@@ -88,6 +88,7 @@ header {
   width: 100%;
   color: black;
   border: 3px solid white; 
+  display: inline-block;
 }
 
 footer img {
