@@ -108,7 +108,7 @@ header {
   text-align: center;
 }
 
-.heading {
+.message-wrapper h2 {
   text-size: 15px;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
   border-bottom: 2px solid gray;
