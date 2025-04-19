@@ -80,7 +80,7 @@ header {
 
 .menu-item {
   float: left;
-  padding-top: 30px;
+  padding: 30px;
   position: relative;
 }
 
@@ -93,7 +93,7 @@ header {
 
 .menu-label {
   position: absolute;
-  top: 90px;
+  top: 50px;
   width: 100%;
   color: black;
   text-size: 30px;
