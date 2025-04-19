@@ -76,9 +76,12 @@ header {
 .menu-item {
   float: left;
   width: 33%;
+  display: inline-block;
 }
 
 .menu-icon img {
+  width: 150px;
+  height: 100px;
   position: relative;
 }
 
@@ -88,7 +91,6 @@ header {
   width: 100%;
   color: black;
   border: 3px solid white; 
-  display: inline-block;
 }
 
 footer img {
