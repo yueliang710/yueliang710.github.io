@@ -73,11 +73,36 @@ header {
   text-align: center;
 }
 
-.menu-item img {
+.menu-wrapper {
+  display: flex;
+  padding: 20px:
+}
+
+.item {
+  position: relative;
+  display: block;
   width: 200px;
   height: 150px;
+  text-decoration: none;
+}
+  
+.menu-item img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
+  display: block;
   border-radius: 8px;
+}
+
+.item-span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  background: rgba(255,255,255,0.6);
+  padding: 5px 10px;
 }
 
 .heading h3 {
