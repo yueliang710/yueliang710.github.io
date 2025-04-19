@@ -82,6 +82,7 @@ header {
 .menu-icon img {
   width: 150px;
   height: 100px;
+  object-fit: cover;
   position: relative;
 }
 
