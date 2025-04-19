@@ -102,6 +102,14 @@ header {
   display: block;
 }
 
+.message-wrapper {
+ text-align: center;
+}
+
+.heading h2 {
+  text-size: 28px;
+}
+
 footer img {
   width: 125px;
 }
