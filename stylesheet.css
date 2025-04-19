@@ -108,6 +108,11 @@ header {
 
 .heading h2 {
   text-size: 28px;
+  font-weight: normal;
+}
+
+.message-wrapper p {
+  font-weight: normal;
 }
 
 footer img {
