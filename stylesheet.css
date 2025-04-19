@@ -86,7 +86,7 @@ header {
   border-radius: 8px;
 }
 
-.menu-item a {
+.menu-label {
   position: absolute;
   top: 10px;
   width: 100%;
