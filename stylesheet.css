@@ -73,18 +73,6 @@ header {
   text-align: center;
 }
 
-.heading {
-  padding-top: 80px;
-  padding-bottom: 50px;
-  color: #5f5d60;
-}
-
-.btn-wrapper {
-  width: 300px;
-  height: 200px;
-
-
-
 .text-contents {
   width: 80%;
   display: inline-block;
