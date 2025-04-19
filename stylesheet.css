@@ -75,13 +75,11 @@ header {
 
 .menu-wrapper {
   text-align: center;
-  background-color: rgb(179,0,0);
 }
 
 .menu-item {
   float: left;
   width: 33%;
-  padding: 30px;
   position: relative;
 }
 
