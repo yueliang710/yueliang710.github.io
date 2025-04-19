@@ -73,6 +73,23 @@ header {
   text-align: center;
 }
 
+.menu-item {
+  float: left;
+  width: 33%;
+}
+
+.menu-icon img {
+  position: relative;
+}
+
+.menu-icon p {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  color: black;
+  border: 3px solid white; 
+}
+
 footer img {
   width: 125px;
 }
