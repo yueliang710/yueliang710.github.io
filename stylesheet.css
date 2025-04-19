@@ -76,6 +76,7 @@ header {
 .menu-item {
   float: left;
   width: 33%;
+  position: relative;
 }
 
 .menu-item img {
@@ -83,7 +84,6 @@ header {
   height: 100px;
   object-fit: cover;
   border-radius: 8px;
-  position: relative;
 }
 
 .menu-item a {
