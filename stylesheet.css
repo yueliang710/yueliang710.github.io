@@ -46,15 +46,6 @@ header {
   z-index: 10;
 }
 
-.logo {
-  width: 124px;
-  margin-top: 20px;
-}
-
-.header-left {
-  float: left;
-}
-
 .header-right {
   float: right;
   margin-right: -25px;
