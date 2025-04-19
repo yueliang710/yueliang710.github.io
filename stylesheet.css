@@ -73,6 +73,10 @@ header {
   text-align: center;
 }
 
+.menu-wrapper {
+  text-align: center;
+}
+
 .menu-item {
   float: left;
   padding: 30px;
