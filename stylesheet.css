@@ -105,7 +105,7 @@ header {
 
 .message-wrapper {
   margin-top: 100px;
-  text-align: left;
+  text-align: center;
 }
 
 .heading h2 {
@@ -115,7 +115,7 @@ header {
 }
 
 .message-wrapper p {
-  textsize: 13px;
+  text-size: 13px;
   font-weight: normal;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
