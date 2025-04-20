@@ -228,6 +228,14 @@ footer {
     margin-bottom: -70px;
   }
 
+  .message-wrapper h2 {
+    font-size: 15px;
+  }
+
+  .message-wrapper p {
+    font-size: 12px;
+  }
+
   footer{
     text-align: center;
   }
