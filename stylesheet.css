@@ -223,4 +223,8 @@ footer {
   .btn {
     margin-bottom: 20px;
   }
+
+  footer{
+    text-align: center;
+  }
 }
