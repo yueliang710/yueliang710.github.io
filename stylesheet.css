@@ -214,6 +214,7 @@ footer {
 
   .menu-item img {
     display: inline-block;
+    margin: 0 auto;
     width: 300px;
     height: 100px;
   }
