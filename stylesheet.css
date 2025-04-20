@@ -219,4 +219,8 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+
+  .btn {
+    margin-bottom: 20px;
+  }
 }
