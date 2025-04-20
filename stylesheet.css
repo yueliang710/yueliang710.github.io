@@ -101,12 +101,12 @@ header {
 }
 
 .message-wrapper h2 {
-  text-size: 10px;
+  font-size: 18px;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
 .message-wrapper p {
-  text-size: 7px;
+  font-size: 16px;
   font-weight: normal;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
