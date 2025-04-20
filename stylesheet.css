@@ -84,6 +84,9 @@ header {
 
 .menu-label {
   position: absolute;
+}
+
+.menu-item a{
   top: 35px;
   width: 100%;
   padding: 10px;
