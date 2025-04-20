@@ -209,7 +209,7 @@ footer {
   }
 
   .menu-item img {
-    float: center;
+    width: 100%;
   }
   
   .menu-item {
