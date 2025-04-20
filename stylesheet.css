@@ -85,7 +85,8 @@ header {
 .menu-label {
   position: absolute;
   top: 40px;
-  width: 100%;
+  width: 40%;
+  text-align: center;
   padding: 20px;
   color: black;
   font-family: system-ui;
