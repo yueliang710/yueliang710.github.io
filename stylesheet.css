@@ -66,16 +66,9 @@ header {
 
 .menu-wrapper {
   height: 580px;
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-color: #f7f7f7;
-  text-align: center;
-}
-
-.menu-wrapper {
   padding: 70px;
   text-align: center;
+  background-color: #f7f7f7;
 }
 
 .menu-item {
@@ -112,7 +105,6 @@ header {
 .message-wrapper h2 {
   text-size: 15px;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
-  border-bottom: 2px solid gray;
 }
 
 .message-wrapper p {
