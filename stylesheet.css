@@ -95,7 +95,8 @@ header {
 }
 
 .message-wrapper {
-  margin-top: 100px;
+  margin-top: 80px;
+  padding: 60px 0;
   text-align: center;
   background-color: #f7f7f7;
 }
