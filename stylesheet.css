@@ -64,7 +64,7 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
-.lesson-wrapper {
+.menu-wrapper {
   height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
@@ -99,6 +99,7 @@ header {
   color: black;
   font-family: system-ui;
   text-size: 30px;
+  line-height: 30px;
   background-color: rgba(255,255,255,0.7);
   display: block;
 }
@@ -111,7 +112,6 @@ header {
 .message-wrapper h2 {
   text-size: 15px;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
-  border-bottom: 2px solid gray;
 }
 
 .message-wrapper p {
