@@ -67,7 +67,6 @@ header {
 .menu-wrapper {
   padding: 70px 140px;
   text-align: center;
-  display: inline-block;
 }
 
 .menu-item {
@@ -85,6 +84,7 @@ header {
 
 .menu-label {
   position: absolute;
+  display: flex;
 }
 
 .menu-item a{
