@@ -221,7 +221,7 @@ footer {
   }
 
   .btn {
-    margin-bottom: 20px;
+    margin-bottom: -20px;
   }
 
   footer{
