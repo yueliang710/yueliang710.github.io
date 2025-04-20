@@ -208,6 +208,10 @@ footer {
     font-size: 14px;
   }
 
+  .menu-item img {
+    text-align: center;
+  }
+  
   .menu-item {
     width: 100%;
   }
