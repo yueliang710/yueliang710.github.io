@@ -209,7 +209,7 @@ footer {
   }
 
   .menu-item img {
-    text-align: center;
+    float: center;
   }
   
   .menu-item {
