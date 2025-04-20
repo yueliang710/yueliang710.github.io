@@ -182,6 +182,15 @@ footer {
 }
 
 @media all and (max-width: 750px) {
+  .menu-wrapper {
+    text-align: center;
+    width: 100%;
+  }
+  
+  .menu-item img {
+    width: 300px;
+    height: 100px;
+  }
 }
 
 @media all and (max-width: 670px) {
